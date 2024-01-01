@@ -1,4 +1,4 @@
-# Lending Club Case Study
+# Bike Sharing Assignment
 
 
 ## Table of Contents
